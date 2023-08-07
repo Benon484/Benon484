@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benon484
 - 👀 I’m interested in creating applications and software that will save our world.
-- 🌱 I’m currently learning swift laungage
+- 🌱 I’m currently learning swift 
 - 💞️ I’m looking to collaborate on creating and bulding applications and softwares
 - 📫 How to reach me ...  
 
